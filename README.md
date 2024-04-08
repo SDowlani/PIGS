@@ -13,7 +13,7 @@ PIGS takes the classic dice game and transforms it into a visually appealing and
 - **User Experience (UX)**: GUI-based app built with Tkinter and Pygame. Tkinter allows for a user-friendly experience with great styling and easy navigation through widgets, buttons, and text-boxes. Pygame enables animations, soundtracks, score-tracking, and overall smoothness of gameplay.
 - **Error Tracking Mechanisms**: Includes mechanisms for checking unmarked, empty, and unfilled information throughout its execution.
 
-## Instalation:
+## Installation:
 
 ### (1) Clone Repository
     git clone https://github.com/sDowlani/PIGS.git
